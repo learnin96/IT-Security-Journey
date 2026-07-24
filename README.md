@@ -14,11 +14,11 @@ Homelab built on UTM/QEMU (Mac) with Windows Server 2019 AD DC, OPNSense firewal
 
 ### Networking:
 
--/networking/ccna-labs: Packet Tracer topologies (OSPF, VLANs, router-on-a-stick), subnetting practice
+- /networking/ccna-labs: Packet Tracer topologies (OSPF, VLANs, router-on-a-stick), subnetting practice
 
 ### Cloud:
 
--/cloud/azure: AZ-900 study notes, Azure fundamentals labs
+- /cloud/azure: AZ-900 study notes, Azure fundamentals labs
 
 Currently Working On:
 
