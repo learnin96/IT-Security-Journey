@@ -32,4 +32,4 @@ Unlike port scanning (Technique #2), Wazuh already had a working, correctly MITR
 I also learned to verify a rule ID actually exists in the ruleset before building on top of it, rather than assuming from memory - I nearly wrote a redundant custom rule referencing a real rule ID before confirming it firsthand.
 
 Next steps:
-Test whether this detection also catches a new account being added to other privileged groups (not just sudo), and whether Wazuh distinguishes between an admin manually creating an account versus a suspicious pattern (e.g., account creation immediately followed by login from an unusual location
+Test whether this detection also catches a new account being added to other privileged groups (not just sudo), and whether Wazuh distinguishes between an admin manually creating an account versus a suspicious pattern (e.g., account creation immediately followed by login from an unusual location)
